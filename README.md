@@ -24,3 +24,8 @@
   </tr>
 </table>
 
+Электронная почта: 	[yurgan@gmail.com](mailto:yurgan@gmail.com)
+
+Skype:			[Yuri.Zavyalov](skype:yuri.zavyalov)
+
+Telegram: [@yzavyalov](tg://resolve?domain=yzavyalov)
