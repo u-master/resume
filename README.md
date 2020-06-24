@@ -1,4 +1,6 @@
-<link rel="stylesheet" href="assets/readme.css">
+<head>
+    <link rel="stylesheet" href="assets/readme.css">
+</head>
 
 # Резюме
 
