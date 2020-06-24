@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="assets/readme.css">
 
 # Резюме
 
@@ -7,11 +7,3 @@
 ### frontend-разработчик
 
 ## Завьялов \  Юрий \ Александрович
-
-
-<style>
-#me2 {
-  display: block;
-  border: 3px solid #ff0000;
-}
-</style>
