@@ -1,21 +1,27 @@
 
 # Резюме
 
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td rowspan="2" width="150">
-        <img src="assets/me320-whitebg.png" alt="Photo" width="150">
-      </td>
-      <td>
-        <h2>Завьялов Юрий Александрович</h2>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>frontend-разработчик</h3>
-      <td>
-      </td>
-    </tr>
+<table width="100%" border="0" cellspacing="0">
+  <col width="25%">
+  <col width="75%" align="right">
+  <col width="0">
+  <tr>
+    <td rowspan="3" width="25%">
+      <img src="assets/me320-whitebg.png" alt="Photo" width="150">
+    </td>
+    <td>
+      Завьялов Юрий Александрович
+    </td>
+  </tr>
+  <tr>
+    <td>
+      29 мая 1982 г.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      frontend-разработчик
+    </td>
+  </tr>
 </table>
 
