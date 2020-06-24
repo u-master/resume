@@ -28,4 +28,4 @@
 
 Skype:			[Yuri.Zavyalov](skype:yuri.zavyalov)
 
-Telegram: [@yzavyalov](tg://resolve?domain=yzavyalov)
+Telegram: [@yzavyalov](https://telegram.me/yzavyalov)
