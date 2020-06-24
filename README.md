@@ -1,14 +1,6 @@
 
 # Резюме
 
-<img src="assets/me320-whitebg.png" alt="Photo" width="150" id="me2">
+<img src="assets/me320-whitebg.png" alt="Photo" width="150" id="me2"><font size="6" color="red"> Завьялов &shy; Юрий &shy; Александрович </font>
 
-### frontend-разработчик
-
-## Завьялов \  Юрий \ Александрович
-
-<style>
-#user-content-me2 {
-  border: 3px solid #f00;
-}
-</style>
+<span>frontend-разработчик</span>
