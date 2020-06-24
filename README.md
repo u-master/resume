@@ -9,7 +9,7 @@
       <img src="assets/me320-whitebg.png" alt="Photo" width="150">
     </td>
     <td align="right">
-      <h2>Завьялов Юрий Александрович&nbsp;&nbsp;&nbsp;</h2>
+      <h3>Завьялов Юрий Александрович&nbsp;&nbsp;&nbsp;</h3>
     </td>
   </tr>
   <tr>
@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td align="right">
-      <h3>frontend-разработчик&nbsp;&nbsp;&nbsp;</h3>
+      <h4>frontend-разработчик&nbsp;&nbsp;&nbsp;</h4>
     </td>
   </tr>
 </table>
