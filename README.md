@@ -60,9 +60,11 @@
     * Методология БЭМ.
     * Дизайн-система whitepaper.
 * Javascript
-    * "Современный" Javascript. ES2015.
+    * "Современный" Javascript. ES2017.
     * Библиотека jQuery
-    * Вспомогательные библиотеки: Axios, yup, on-change
+    * Библиотека React
+    * Библиотека Redux
+    * Вспомогательные библиотеки: Axios, lodash, yup, on-change
     * Паттерн MVC/MVP.
 * Автоматическое тестирование, покрытие тестами, TDD (Jest).
 * CI (Github Action).
