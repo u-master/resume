@@ -62,9 +62,10 @@
 * Javascript
     * "Современный" Javascript. ES2017.
     * Библиотека jQuery
-    * Библиотека React
+    * Библиотека React  / Preact
     * Библиотека Redux
-    * Вспомогательные библиотеки: Axios, lodash, yup, on-change
+    * Использование hooks
+    * Вспомогательные библиотеки: Axios, lodash, yup, on-change, i18, formik
     * Паттерн MVC/MVP.
 * Автоматическое тестирование, покрытие тестами, TDD (Jest).
 * CI (Github Action).
@@ -78,9 +79,10 @@
     * Microsoft® Windows™
 
 Портфолио:
-* ///
-* ///
-* ///
+* Чат (учебный проект). React, redux, react-bootstrap, formik, webpack. Репозиторий на [Github](https://github.com/u-master/frontend-project-lvl4). Автодеплой на [Heroku](https://slack-u-master.herokuapp.com/).
+* Агрегатор RSS (учебный проект). Bootstrap, MVC, yup, on-change. Репозиторий па [Github](https://github.com/u-master/frontend-project-lvl3). Автодеплой на [Vercel](https://rss-reader.u-master.now.sh/).
+* CLI утилита Генератор различий. Поиск различий между двумя файлами конфигураций. Репозиторий на [Github](https://github.com/u-master/frontend-project-lvl2).
+* Верстка тренировочного макета Voronina. Адаптивная верстка, Less, БЭМ, PixelPerfect. Репозиторий на [Github](https://github.com/u-master/voronina). Страница на [Github Pages](https://u-master.github.io/voronina/).
 
 Личные качества: ответственный, целеустремленный, внимательный, умение анализировать и самообучаться, коммуникабельный;
 
