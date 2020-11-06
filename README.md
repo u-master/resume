@@ -1,6 +1,10 @@
 
 # Резюме
 
+<p align=right>
+  <a href="/README_en.md">Switch to English version / Перейти на Английскую версию</a>
+</p>
+
 <table width="100%">
   <col width="25%">
   <col width="75%">
