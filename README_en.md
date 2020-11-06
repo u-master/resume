@@ -7,13 +7,14 @@
 
 <table width="100%">
   <col width="25%">
-  <col width="75%">
+  <col width="25%">
+  <col width="50%">
   <tr>
-    <td rowspan="3" width="25%">
+    <td rowspan="3" colspan="2" width="25%">
       <img src="assets/me320-whitebg.png" alt="Photo" width="150">
     </td>
     <td align="right">
-      <h3>Yuri Zavyalov&nbsp;&nbsp;&nbsp;</h3>
+      <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yuri Zavyalov&nbsp;&nbsp;&nbsp;</h3>
     </td>
   </tr>
   <tr>
