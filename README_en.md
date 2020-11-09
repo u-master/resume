@@ -92,6 +92,6 @@ Portfolio:
 Personal skills: responsible, purposeful, attentive, adaptability, self-disciplined, communicable;
 
 Interests and hobbies: 
-* running, ski, mounting ski, skates
+* running, skiing, mountain-skiing, skate
 * reading
 * 3D printers
