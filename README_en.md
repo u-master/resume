@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-Hello! I'm Yuri. I have a strong knowledge and experience in Web Development using **React** ecosystem. 
+Hello! I'm Yuri. I have strong knowledge and experience in Web Development using the **React** ecosystem.  I am really inspired by front-end development, so I always try to be on top of technologies and upgrade my development skills.
 
 Contacts:
 * E-mail: 	[yurgan@gmail.com](mailto:yurgan@gmail.com)
@@ -51,7 +51,7 @@ Languages:
 
 Professional Experience:
 * Smartforce LLC. Front-End developer. 2020 - present. Development of Atlassian plugins (both the server and the cloud versions). Company with an international team (USA, Russia). Implementation of UI using React + Redux or Apollo (GraphQL). Some tasks were related to the backend part (express.js, next.js) and deployment via Docker (AWS, Google Cloud).
-* individual training "pet" projects; studied with a mentor (2019 - 2020).
+* individual training "pet" projects; studies with a mentor (2019 - 2020).
 * (non-relevant) Sales manager. 2006 - 2020. In such companies as Arsenal of Security, Proto-X, AST LLC. Consulting and sale of security systems. Started several branches in Omsk city.
 * technical support engineer of computer trading company. «Computer Gallery», COMMED Corp. 2004 – 2006. Pre-sale preparation, maintenance, technical support.
 * FoxPro Programmer. The network of household goods stores. 2003 – 2004. Developent of application for managing a goods remains at stores and synchronize it with main database.
@@ -68,9 +68,9 @@ Used technologies:
     * Redux (Redux Toolkit)
     * Apollo (GraphQL)
     * Typescript
-    * Other libraries: jQuery, Axios, lodash, yup, i18next, formik
+    * Other libraries: jQuery, Axios, lodash, yup, i18next, formik, styled-components
     * MVC/MVP pattern.
-* Automatic tests, tests coverage, TDD (Jest, Puppeteer).
+* Automatic tests, tests coverage, TDD (Jest).
 * CI (Github Action) / CD (Vercel, Heroku)
 * Development tools like Git, Webpack, CRA
 * Base algorithms and data structures
