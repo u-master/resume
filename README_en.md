@@ -14,7 +14,7 @@
       <img src="assets/me320-whitebg.png" alt="Photo" width="150">
     </td>
     <td align="right">
-      <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yuri Zavyalov&nbsp;&nbsp;&nbsp;</h3>
+      <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yuri Zavyalov&nbsp;&nbsp;&nbsp;</h3>
     </td>
   </tr>
   <tr>
@@ -41,44 +41,40 @@ Education and courses:
 direction of Applied Mathematics and Computer Science. 
 Specialist of mathematics, system programming.
 * Courses [hexlet.io](https://hexlet.io), profession «Frontend Javascript». Theory, practical tasks and individual projects with mentor. [Profile](https://ru.hexlet.io/u/yzav)
-* Interactive courses [HTML Academy](https://htmlacademy.ru). Advanced subscription. [Profile](https://htmlacademy.ru/profile/yz)
+* Interactive courses of [HTML Academy](https://htmlacademy.ru). [Profile](https://htmlacademy.ru/profile/yz)
 
 Languages:
 * Russian - Native
 * English - B1 
 
-Professional Experience: 
+Professional Experience:
+* Smartforce LLC. Frontend developer. 2020 - present. Development of Atlassian plugins (both the server and the cloud versions). Company with an international team (USA, Russia). Implementation of UI using React + Redux or Apollo (GraphQL). Some tasks were related to the backend part (express.js, next.js) and deployment via Docker (AWS, Google Cloud).
 * individual training "pet" projects, studying projects with mentor.
-* (non-relevant) Sales manager. 2006 - present. Arsenal of Security Company. Proto-X. AST LLC. Consulting and sales security systems. Setting up of storage, logistic and trade at new trading points.
-* technical support engineer of computer trading company. «Computer Gallery» shop, COMMED Corp. 2004 – 2006. Pre-sale maintenance, technical support, warranty service of computers and peripherals.
-* FoxPro Programmer. Company of household goods stores. 2003 – 2004. Developing an application for managing a goods remains at stores and synchronize it with main database. Setting up and maintaining a local network.
+* (non-relevant) Sales manager. 2006 - 2020. In such companies as Arsenal of Security, Proto-X, AST LLC. Consulting and sale of security systems. Started several branches in Omsk city.
+* technical support engineer of computer trading company. «Computer Gallery», COMMED Corp. 2004 – 2006. Pre-sale preparation, maintenance, technical support.
+* FoxPro Programmer. The network of household goods stores. 2003 – 2004. Developent of application for managing a goods remains at stores and synchronize it with main database.
 * Local network administrator. Game club «BIOS». 2003.
 
 Used technologies:
 * Site markup
-    * HTML5, CSS3.
+    * HTML5, CSS3. HTML Template engines: Pug, Velocity, Soy (Google Closure Templates). CSS preprocessors: SASS, Less.
     * Adaptive and Responsive design.
-    * Figma, Avocode, Photoshop using.
-    * Template engine Pug.
-    * Preprocessors SASS, Less.
-    * Framework Bootstrap.
-    * Methodology BEM.
-    * Design system Whitepaper.
+    * BEM methodology.
+    * Figma, Avocode, Photoshop.
 * Javascript
-    * "Modern" Javascript. ES2017.
-    * Library jQuery
-    * Library React  / Preact
-    * Library Redux
-    * Using hooks
-    * Auxiliary libraries: Axios, lodash, yup, on-change, i18, formik
+    * React (Preact), using hooks feature
+    * Redux (Redux Toolkit)
+    * Apollo
+    * Other libraries: jQuery, Axios, lodash, yup, i18next, formik
     * MVC/MVP pattern.
-* Automatic tests, tests coverage, TDD (Jest).
+* Automatic tests, tests coverage, TDD (Jest, Puppeteer).
 * CI (Github Action) / CD (Vercel, Heroku)
 * Git
 * Bundler Webpack
 * Base algorithms and data structures
 * Principles of databases, SQL
-* Knowledge how a networks operates, model OSI. Protocols TCP/IP, DNS, HTTP/HTTPv2
+* REST API / GraphQL
+* Networks, model OSI. Protocols TCP/IP, DNS, HTTP/HTTPv2
 * Operation systems:
     * Linux
     * Microsoft® Windows™
